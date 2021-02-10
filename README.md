@@ -7,3 +7,7 @@ This will spoof your Universally Unique Identifier(GUID)
 
 ### Disclaimer:
 For educational purposes only
+
+
+### Disclaimer:
+For educational purposes only, (me)Owersite, is not resposible for whatever you do with this.
