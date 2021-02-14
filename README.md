@@ -10,4 +10,4 @@ For educational purposes only
 
 
 # Disclaimer:
-For educational purposes only, (me)Owersite, is not resposible for whatever you do with this.
+### Owersite(creator of guid spoofer & this github repository) is not is not resposible for whatever you do with this, it is made for educational purposes only!
